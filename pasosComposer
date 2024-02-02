@@ -1,0 +1,5 @@
+para instalar las dependencias del archivo composer.json digitar:  composer install
+cuando hagamos cambios en el composer.json debemos escribir en el terminal: composer update
+
+PHP MVC 
+para iniciar una terminal desde la carpeta public:  php -S localhost:3000
